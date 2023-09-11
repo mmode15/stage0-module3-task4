@@ -1,7 +1,5 @@
 package school.mjc.stage0.module3.task4;
 
-import java.util.function.Function;
-
 public class FormulaCreator {
     public static void main(String[] args) {
 
